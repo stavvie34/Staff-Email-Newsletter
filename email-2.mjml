@@ -108,10 +108,21 @@
       </mj-section>
 
       <mj-section vertical-align="middle" background-color="#fff" full-width="full-width">
-        <mj-column width="50%" vertical-align="middle">
-          <mj-image src="http://www.supercamp.com/wp-content/uploads/2017/05/icon-5-compressor.png"></mg-image>
+        <mj-column width="15%" vertical-align="middle">
+          <mj-image align="left" src="http://www.supercamp.com/wp-content/uploads/2017/05/icon-5-compressor.png"></mj-image>
         </mj-column>
-        <mj-column width="50%" vertical-align="middle">
+        <mj-column width="35%">
+          <mj-text font-size="20">
+            <span>Going, Going, Gone!</span>
+          </mj-text>
+        </mj-column>
+        <mj-column width="15%" vertical-align="middle">
+          <mj-image src="http://www.supercamp.com/wp-content/uploads/2017/05/icon-6-compressor.png"></mj-image>
+        </mj-column>
+        <mj-column width="35%">
+          <mj-text font-size="20">
+            <span>Going, Going, Gone!</span>
+          </mj-text>
         </mj-column>
     </mj-container>
   </mj-body>
