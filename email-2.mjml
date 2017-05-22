@@ -1,31 +1,18 @@
 <mjml>
   <mj-body>
-
       <mj-container>
-        <mj-navbar background-color="#ef6451">
+        <mj-navbar background-color="#45769C">
           <mj-column width="100%">
-            <mj-image width="250px" src="http://www.supercamp.com/wp-content/uploads/2017/05/SC_logo_white-1-compressor.png"></mj-image>
+            <mj-image width="100%" src="http://www.supercamp.com/wp-content/uploads/2017/05/SC_logo_white-1-compressor.png"></mj-image>
           </mj-column>
         </mj-navbar>
-        <mj-hero mode="fluid-height" background-width="600px" background-height="469px" background-url="http://www.supercamp.com/wp-content/uploads/2017/05/header-bg-8.jpg" background-color="#070707" padding="100px 0px">
+        <mj-hero mode="fluid-height" background-width="1440px" background-height="958px" background-url="http://www.supercamp.com/wp-content/uploads/2017/05/header-bg-8.jpg" background-color="#45769C" padding="100px 0px">
           <!-- To add content like mj-image, mj-text, mj-button ... use the mj-hero-content component -->
+          <mj-image width="125" height="auto" src="http://www.supercamp.com/wp-content/uploads/2017/05/heart-atom4.png"></mj-image>
+
           <mj-hero-content width="100%">
             <mj-text padding="20px" color="#ffffff" font-family="Roboto" align="center" font-size="45" line-height="45px" font-weight="200">
               SuperCamp Staff <strong>News</strong>
-            </mj-text>
-            <mj-button href="http://www.supercamp.com/staff/" align="center">
-              View More
-            </mj-button>
-          </mj-hero-content>
-        </mj-hero>
-      </mj-container>
-
-      <mj-container>
-        <mj-hero mode="fluid-height" background-width="600px" background-height="469px" background-url="http://www.supercamp.com/wp-content/uploads/2017/05/header-bg-8.jpg" background-color="#070707" padding="100px 0px">
-          <!-- To add content like mj-image, mj-text, mj-button ... use the mj-hero-content component -->
-          <mj-hero-content width="100%">
-            <mj-text padding="20px" color="#ffffff" font-family="Helvetica" align="center" font-size="45" line-height="45px" font-weight="900">
-              SuperCamp Staff News
             </mj-text>
             <mj-button href="http://www.supercamp.com/staff/" align="center">
               View More
