@@ -108,22 +108,25 @@
       </mj-section>
 
       <mj-section vertical-align="middle" background-color="#fff" full-width="full-width">
-        <mj-column width="15%" vertical-align="middle">
-          <mj-image align="left" src="http://www.supercamp.com/wp-content/uploads/2017/05/icon-5-compressor.png"></mj-image>
-        </mj-column>
-        <mj-column width="35%">
-          <mj-text font-size="20">
+        <mj-column width="50%" vertical-align="middle">
+          <mj-image width="70px" align="center" src="http://www.supercamp.com/wp-content/uploads/2017/05/icon-5-compressor.png"></mj-image>
+          <mj-text align="center" font-size="20">
             <span>Going, Going, Gone!</span>
           </mj-text>
-        </mj-column>
-        <mj-column width="15%" vertical-align="middle">
-          <mj-image src="http://www.supercamp.com/wp-content/uploads/2017/05/icon-6-compressor.png"></mj-image>
-        </mj-column>
-        <mj-column width="35%">
-          <mj-text font-size="20">
-            <span>Going, Going, Gone!</span>
+          <mj-text>
+            <span>Ready to have the summer experience of a lifetime? Enrollments are rolling in for the 2017 summer. Stanford Junior Forum and the 6 day Stanford Senior Forum are already full! Join us at one of our other Stanford sessions, California State University San Marcos, or at Villanova University in Pennsylvania. We are still looking for staff members that radiant the 8 Keys of Excellence! If you know someone who fits with the SuperCamp spirit let us know! Current staff members that refer someone who is hired and works this summer may be eligible for a referral bonus!</span>
           </mj-text>
         </mj-column>
+        <mj-column width="50%">
+          <mj-image width="70px" align="center" src="http://www.supercamp.com/wp-content/uploads/2017/05/icon-6-compressor.png"></mj-image>
+          <mj-text align="center" font-size="20">
+            <span>FIT 2017</span>
+          </mj-text>
+          <mj-text>
+            <span>We love our FIT’s! Talent comes from all over the globe! This year training these dynamic facilitators will take place in 2 locations. In June, our training team will head to Chicago to run our first ever Chicago FIT. In July, Cal State San Marcos will host another group of 2017 FIT’s that are gearing up for a productive summer. We would also like to announce our newest addition to the training program; Year Round FIT’s. These FACs will be gaining additional insight throughout the year at the QLN campus, and lead the way for the 2018 FIT’s for SuperCamp next summer.</span>
+          </mj-text>
+        </mj-column>
+      </mj-section>
     </mj-container>
   </mj-body>
 </mjml>
