@@ -127,6 +127,54 @@
           </mj-text>
         </mj-column>
       </mj-section>
+
+      <mj-section vertical-align="middle" background-color="#ffffff" full-width="full-width">
+        <mj-column width="33.3333333333%">
+          <mj-image border-radius="4px" src="http://www.supercamp.com/wp-content/uploads/2017/05/Sites-2-compressor.jpg" alt="" padding-bottom="20" padding-top="20"></mj-image>
+        </mj-column>
+        <mj-column width="66.6666666666%" vertical-align="middle">
+          <mj-text font-size="20">
+            <span>Sites and Scenery!</span>
+          </mj-text>
+          <mj-text>
+            <span>Along with the beautiful sites of Stanford University, Cal State San Marcos, and Villanova University, SuperCamp will be taking in the scenery in Hong Kong, Singapore, Italy, Canada, Bali, Bermuda, Mexico, Australia, & Korea.</span>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <mj-section background-color="#97ABBD" vertical-align="middle" full-width="full-width">
+        <mj-column>
+          <mj-text color="#fff" font-size="20" align="center">
+            <span>Welcome to The Team!</span>
+          </mj-text>
+          <mj-divider border-color="#fff" border-width="1" width="50%"/>
+          <mj-text color="#fff">
+            <span>We are happy to announce that <strong>Cheyenne Foster</strong> and <strong>Skyler Foster</strong> are now a part of our SuperCamp Team at our headquarters in Oceanside, CA! They are 100% dedicated to making sure we provide the best camp experience possible.</span>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <mj-section>
+        <mj-column border-radius="4" width="50%" vertical-align="middle" background-color="#fff">
+          <mj-image width="70px" align="center" src="http://www.supercamp.com/wp-content/uploads/2017/05/icon-5-compressor.png"></mj-image>
+          <mj-text align="center" font-size="20">
+            <span>Going, Going, Gone!</span>
+          </mj-text>
+          <mj-text>
+            <span>Ready to have the summer experience of a lifetime? Enrollments are rolling in for the 2017 summer. Stanford Junior Forum and the 6 day Stanford Senior Forum are already full! Join us at one of our other Stanford sessions, California State University San Marcos, or at Villanova University in Pennsylvania. We are still looking for staff members that radiant the 8 Keys of Excellence! If you know someone who fits with the SuperCamp spirit let us know! Current staff members that refer someone who is hired and works this summer may be eligible for a referral bonus!</span>
+          </mj-text>
+        </mj-column>
+        <mj-column border-radius="4" width="50" vertical-align="middle" background-color="#fff">
+          <mj-image width="70px" align="center" src="http://www.supercamp.com/wp-content/uploads/2017/05/icon-6-compressor.png"></mj-image>
+          <mj-text align="center" font-size="20">
+            <span>FIT 2017</span>
+          </mj-text>
+          <mj-text>
+            <span>We love our FIT’s! Talent comes from all over the globe! This year training these dynamic facilitators will take place in 2 locations. In June, our training team will head to Chicago to run our first ever Chicago FIT. In July, Cal State San Marcos will host another group of 2017 FIT’s that are gearing up for a productive summer. We would also like to announce our newest addition to the training program; Year Round FIT’s. These FACs will be gaining additional insight throughout the year at the QLN campus, and lead the way for the 2018 FIT’s for SuperCamp next summer.</span>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
     </mj-container>
   </mj-body>
 </mjml>
